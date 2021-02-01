@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "goalsapp"
+    }
+  },
+  "defaultProject": "goalsapp",
+  "cli": {
+    "analytics": false
+  }
 }
